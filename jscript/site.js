@@ -21,9 +21,11 @@ else {
 welcomeDiv.appendChild(welcomeH1)
 
 
+
 // Secret Message
 const key = "It's a secret to everbody."
 localStorage.setItem(key, "HEY, LISTEN!")
+
 
 
 // Image Carousel
@@ -69,4 +71,3 @@ btnPrev.addEventListener("click", () => {
     currentImage--
     showImages()
 })
-

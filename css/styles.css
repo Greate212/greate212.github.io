@@ -58,6 +58,26 @@ img {
     border: 2px solid black;
 }
 
+#todo_page {
+
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(31, 31, 231);
+    border: 2px solid black;
+}
+
+#todo_list {
+    height: 500px;
+}
+
+#todo_input {
+
+    width: 300px;
+    margin: 25px 170px;
+}
+
 #books {
 
     text-align: center;
@@ -96,4 +116,11 @@ img {
 .me {
 
     height: auto;
+}
+
+.todo-list {
+
+    width: 400px;
+    float: right;
+
 }
