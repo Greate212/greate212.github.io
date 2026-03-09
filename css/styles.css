@@ -69,11 +69,11 @@ img {
 }
 
 #todo_list {
+    width: 1000px;
     height: 500px;
 }
 
 #todo_input {
-
     width: 300px;
     margin: 25px 170px;
 }
