@@ -113,6 +113,20 @@ img {
     margin-bottom: 30px;
 }
 
+#poke_api {
+    width: 1000px;
+    height: 200px;
+    text-align: center;
+}
+
+#pokemon_name {
+    margin-top: 10px;
+}
+
+#pokemon_sprite {
+    border: none;
+}
+
 .me {
 
     height: auto;
